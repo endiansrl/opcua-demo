@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t purplesrl/opcua .
+docker build -t endian/opcua .
